@@ -1,2 +1,3 @@
 lista de compras 
-coca-cola
+coca-cola 2l
+barra de chocolate
